@@ -5,10 +5,11 @@
   使用時用 var(--變數名稱) 就能套用。
 */
 :root {
-  --main-color: #f59e0b;   /* 主色：亮橘黃色（按鈕、導覽列背景） */
-  --main-dark: #d97706;    /* 主色加深版（滑鼠移過去時使用） */
-  --text-color: #333;      /* 主要文字顏色（深灰） */
-  --bg-light: #fff8e1;     /* 頁面背景色（淡黃色） */
+  --main-color: #f472b6;  /* 主色：粉紅 */
+  --main-dark: #db2777;   /* 深粉紅 */
+  --accent-color: #fde6ef;/* 淺粉背景 */
+  --text-color: #333;
+  --bg-light: #fde6ef;
 }
 
 /* === 全站 body 設定 === */
